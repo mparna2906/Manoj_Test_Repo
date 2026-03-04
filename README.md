@@ -1,2 +1,2 @@
-# Manoj_Test_Repo
+# ManojTestRepo
 Creating a Repo for practicing
